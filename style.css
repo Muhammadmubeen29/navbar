@@ -1,0 +1,18 @@
+h1{
+    border: 4px solid yellow;
+    font-size: 34px;
+}
+img{
+    border: 4px solid red;
+    height: 100px;
+    width: 100px;
+    margin-right: 100px;
+}
+ul{
+    border: 4px solid green;
+}
+li{
+    font-style: italic;
+    font-size: 30px;
+    display: -moz-inline-grid;
+}
